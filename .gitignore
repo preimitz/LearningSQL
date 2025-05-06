@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# SQLite and other DB files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Logs
+*.log
