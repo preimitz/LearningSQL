@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+#environments
+notebooks/.env
+
 # SQLite and other DB files
 *.db
 *.sqlite
